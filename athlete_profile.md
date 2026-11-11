@@ -2,7 +2,7 @@
 
 **Základní údaje**
 - Věk: 20 let
-- Zaměření: Hybridní trénink (běh, funkční silová vytrvalost, veslování, silový trénink)
+- Zaměření: Hybridní trénink (běh, funkční silová vytrvalost, veslování, běžky, silový trénink)
 
 **Srdeční tep a zóny (BPM)**
 - Klidový tep (RHR): ~? bpm
