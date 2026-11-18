@@ -1,6 +1,6 @@
 activity_id,date,name,sport_type,distance_km,moving_time_sec,moving_time_fmt,avg_pace_or_speed,avg_hr,max_hr,avg_cadence,avg_watts,elevation_gain_m,suffer_score,file_path
-21038956952,2026-11-18,Intervals,Workout,7.8,2669,0:44:29,4:17 /km (intervals),178,194,,,0,35,activities/2026-11/2026-11-18_workout_21038956952.md
-21019325770,2026-11-17,Rege,Workout,6.15,2540,0:42:20,~6:53 /km,150,159,,,0,33,activities/2026-11/2026-11-17_workout_21019325770.md
+21038956952,2026-11-18,Intervals,Run,7.8,2669,0:44:29,4:17 /km (intervals),178,194,,,0,35,activities/2026-11/2026-11-18_run_21038956952.md
+21019325770,2026-11-17,Rege,Run,6.15,2540,0:42:20,~6:53 /km,150,159,,,0,33,activities/2026-11/2026-11-17_run_21019325770.md
 21007067268,2026-11-16,Procházka,Walk,4.08,3148,0:52:28,12:52 /km,,,,,54,7,activities/2026-11/2026-11-16_walk_21007067268.md
 20994168045,2026-11-15,Easy,Run,5.48,2078,0:34:38,6:19 /km,163,176,,,7,57,activities/2026-11/2026-11-15_run_20994168045.md
 20987058294,2026-11-14,Kruháček,HighIntensityIntervalTraining,0,2819,0:46:59,,150,185,,,0,46,activities/2026-11/2026-11-14_hiit_20987058294.md
