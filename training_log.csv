@@ -1,4 +1,8 @@
 activity_id,date,name,sport_type,distance_km,moving_time_sec,moving_time_fmt,avg_pace_or_speed,avg_hr,max_hr,avg_cadence,avg_watts,elevation_gain_m,suffer_score,file_path
+21128555742,2026-11-26,FullBody,Workout,0,3752,1:02:32,,107,159,,,0,10,activities/2026-11/2026-11-26_workout_21128555742.md
+21116560566,2026-11-25,Rege,Run,6.0,2400,0:40:00,6:40 /km,150,163,,,0,15,activities/2026-11/2026-11-25_run_21116560566.md
+21108915273,2026-11-24,Chůze,Walk,2.53,1631,0:27:11,10:43 /km,,,,,6,3,activities/2026-11/2026-11-24_walk_21108915273.md
+21096531827,2026-11-23,Procházka,Walk,2.61,1605,0:26:45,10:14 /km,,,,,8,,activities/2026-11/2026-11-23_walk_21096531827.md
 21083482879,2026-11-22,Halfmarathon MF,Run,21.51,7933,2:12:13,6:09 /km,170,184,,,44,272,activities/2026-11/2026-11-22_run_21083482879.md
 21073480393,2026-11-21,Výlet Komáří vížka,Walk,15.57,14278,3:57:58,15:17 /km,,,,,677,31,activities/2026-11/2026-11-21_walk_21073480393.md
 21061362247,2026-11-20,Judo,Workout,0,2962,0:49:22,,,,,,0,,activities/2026-11/2026-11-20_workout_21061362247.md
