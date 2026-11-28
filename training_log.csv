@@ -1,4 +1,5 @@
 activity_id,date,name,sport_type,distance_km,moving_time_sec,moving_time_fmt,avg_pace_or_speed,avg_hr,max_hr,avg_cadence,avg_watts,elevation_gain_m,suffer_score,file_path
+21151540738,2026-11-28,Intervals,Run,8.8,3489,0:58:09,4:17 /km (intervals),151,191,,,0,61,activities/2026-11/2026-11-28_run_21151540738.md
 21128555742,2026-11-26,FullBody,Workout,0,3752,1:02:32,,107,159,,,0,10,activities/2026-11/2026-11-26_workout_21128555742.md
 21116560566,2026-11-25,Rege,Run,6.0,2400,0:40:00,6:40 /km,150,163,,,0,15,activities/2026-11/2026-11-25_run_21116560566.md
 21108915273,2026-11-24,Chůze,Walk,2.53,1631,0:27:11,10:43 /km,,,,,6,3,activities/2026-11/2026-11-24_walk_21108915273.md
